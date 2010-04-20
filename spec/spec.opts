@@ -1,0 +1,6 @@
+--color
+--format=html:result.html
+--format=progress
+--loadby random
+
+
